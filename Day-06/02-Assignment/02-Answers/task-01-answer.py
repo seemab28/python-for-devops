@@ -1,6 +1,7 @@
 a = 10
 b = 5
 
+
 sum_result = a + b
 difference_result = a - b
 product_result = a * b
